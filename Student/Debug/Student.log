@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\ianho\OneDrive\Documents\GitHub\Student\Student\Main.cpp(111,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ianho\OneDrive\Documents\GitHub\Student\Student\Main.cpp(217): warning C4715:  'compare': not all control paths return a value
+  Student.vcxproj -> C:\Users\ianho\OneDrive\Documents\GitHub\Student\Debug\Student.exe
